@@ -565,3 +565,5 @@ require get_parent_theme_file_path( '/inc/customizer.php' );
  * SVG icons functions and filters.
  */
 require get_parent_theme_file_path( '/inc/icon-functions.php' );
+update_option('siteurl','http://34.229.54.41/wordpress');
+update_option('home','http://34.229.54.41/wordpress');
